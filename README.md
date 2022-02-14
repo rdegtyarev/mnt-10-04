@@ -51,12 +51,12 @@ Filebeat следует сконфигурировать для отправки
 - скриншот интерфейса kibana
 ![02](https://github.com/rdegtyarev/mnt-10-04/blob/main/02.png)
 - docker-compose манифест (если вы не использовали директорию help)
-[docker-compose.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/docker-compose.yml)
+  - [docker-compose.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/docker-compose.yml)
 
 - ваши yml конфигурации для стека (если вы не использовали директорию help)
-[filebeat.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/filebeat.yml)
-[logstash.conf](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/logstash.conf)
-[logstash.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/logstash.yml)
+  - [filebeat.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/filebeat.yml)
+  - [logstash.conf](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/logstash.conf)
+  - [logstash.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/config/logstash.yml)
 
 ---  
 
