@@ -47,9 +47,9 @@ Filebeat следует сконфигурировать для отправки
 
 ### Решение
 - скриншот `docker ps` через 5 минут после старта всех контейнеров (их должно быть 5)
-![01](http://url/to/img.png)
+![01](https://github.com/rdegtyarev/mnt-10-04/blob/main/01.png)
 - скриншот интерфейса kibana
-![02](http://url/to/img.png)
+![02](https://github.com/rdegtyarev/mnt-10-04/blob/main/02.png)
 - docker-compose манифест (если вы не использовали директорию help)
 [docker-compose.yml](https://github.com/rdegtyarev/mnt-10-04/blob/main/docker-compose.yml)
 
@@ -74,8 +74,8 @@ Filebeat следует сконфигурировать для отправки
    
 ### Решение
 
-![03](http://url/to/img.png)
+![03](https://github.com/rdegtyarev/mnt-10-04/blob/main/03.png)
 
-![04](http://url/to/img.png)
+![04](https://github.com/rdegtyarev/mnt-10-04/blob/main/04.png)
 
 ---  
